@@ -131,8 +131,7 @@
                 <li>Css</li>
             </ol>
         </section>
-    <section >
-    <p class="image" >
+    <section  class="image" >
     <form action =" ">
         <h3 style="color:rgb(199, 29, 29) " class="student">- Student Details -</h3>
         <br>
@@ -142,7 +141,6 @@
         <h5>ROLL: 248R1A6664. </h5>
         <h5>Class: CSE(AIML). </h5>
     </form>
-        </p>
         </section>
             <section>
             <h4 style="color:rgb(0, 88, 252)">- Contact me -</h4><br>
