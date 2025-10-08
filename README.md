@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Praveen Reddy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <Style>
         body{
             font-size: 50px;
