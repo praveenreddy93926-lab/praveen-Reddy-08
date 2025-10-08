@@ -156,7 +156,7 @@
                   <input type="date" class="input" id = "dateofbirth">
                   <br>
                   <b class="lable" >enter ur Gender: </b>
-                  <input type="radio" class="input"id = "male" name="k" value = "male" >
+                  <input type="radio" class="input" id = "male" name="k" value = "male" >
                   <lable for = "k"  class="lable" >Male</lable>
                   <input type="radio"  id ="ma" class ="input" name = "k" value = "female"> 
                   <lable for="k" class="lable" >Female</lable>
