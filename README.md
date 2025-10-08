@@ -146,7 +146,9 @@
             </ol>
             
         </section>
-    <section class="image" >
+        
+    <section >
+    <p class="image" >
     <form action =" ">
         
         <h3 style="color:rgb(199, 29, 29) " class="student">- Student Details -</h3>
@@ -158,25 +160,32 @@
         <h5>Class: CSE(AIML). </h5>
     </form>
         <footer>
+        </p>
         </section>
+
+
+        
             <section>
             <h4 style="color:rgb(0, 88, 252)">- Contact me -</h4><br>
-                  <lable  class ="lable"for = "Name">Name: </lable>
-                  <input type = "Text" class="input"placeholder="enter name "><br>
-                 <label class="lable"for="phone">Phone number</label>
-                  <input type="password"class="input" name ="password" ><br>
-                  <label for="password" class="lable">Date</label>
+                  <lable  class ="lable" for = "Name">Name: </lable>
+                  <input type = "Text"  class="input" placeholder="enter name "><br>
+                 <label class="lable" for="phone" >Phone number</label>
+                  <input type="password" class="input" name ="password" ><br>
+                  <label for="password" class="lable" >Date</label>
                   
                   <input type="date" class="input" id = "dateofbirth">
                   <br>
-                  <b class="lable">enter ur Gender: </b>
-                  <input type="radio" class="input"id = "male" name="k" value = "male">
-                  <lable for = k class="lable">Male</lable>
-                  <input type="radio"  id = "ma" class = "input" name = "k" value = "female"><b class="lable">Female</b>
+                  <b class="lable" >enter ur Gender: </b>
+                  <input type="radio" class="input"id = "male" name="k" value = "male" >
+                  <lable for = "k"  class="lable" >Male</lable>
+                  <input type="radio"  id ="ma" class ="input" name = "k" value = "female"> 
+                  <lable for="k" class="lable" >Female</lable>
                   <br>
                   <b class="lable"> checkbox</b>
-                  <input type = "checkbox" class ="input" id = "box" value = "value"> <b class="lable">box1</b>
-                  <input type = "checkbox" id = "box" class="input" value = "value"><b class="lable"> box2 </b>
+                  <input type = "checkbox" class ="input" id = "box" value = "value">
+                  <b class="lable">box1</b>
+                  <input type = "checkbox" id = "box" class="input" value = "value">
+                  <b class="lable"> box2 </b>
                   <br>
                   <h1>
                 </h1>
