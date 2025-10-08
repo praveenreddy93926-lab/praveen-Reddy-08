@@ -21,7 +21,7 @@ th{
     background-color: cadetblue;
 }
   section{
-    background-image: url(../../imagetoHTML.ed.webp);
+    background-image: url(imagetoHTML.ed.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -37,6 +37,7 @@ section{
 }
 body{
   
-    background-image: url(../../imagetoHTML.ed.webp);
+    background-image: url(imagetoHTML.ed.webp);
+
 
 }
