@@ -19,7 +19,6 @@
            justify-content: center;
            align-items: center;
            place-items: center;
-
         }
         body{
             text-align: center;
@@ -52,7 +51,6 @@
             }h1{
                 text-decoration: underline;
             }
-           
             button{
                 color:rgb(255, 3, 3);
             }
@@ -84,7 +82,6 @@
         .praveen-img{
             width: 100px;
             height: auto;
-
         }
         h5{
             color: rgb(0, 0, 0);
@@ -97,23 +94,18 @@
             border: 4px;
             padding: 8px;
             border-radius: 10px;
-
         }
-       
     </Style>
 </head>
 <body>
     <section>
     <header>
-
       <center>
           <h1 style="color:greenyellow" class = "pr">- I am Praveen Reddy -</h1>
         </center>
     </header>
     <main>
-        
         <center>
-            
                 <button > languages known</button>
             <a href="http://127.0.0.1:5500/New%20folder/SubfileOFHTML.html/Sub.html/subb.html/sub.html">
                 <button"> Educational course</button>
@@ -126,13 +118,8 @@
             <a href = "https://chatgpt.com/c/68dbd180-f660-8323-970d-6113fbe1d239">go to chatgpt </a>
             <h3 style="color :darkturquoise">........ </h3>
         </center>
-    </main>
-        
+    </main
     </section>
-        
-        
-        
-        
             <section>
             <h3 style="color: chartreuse;">languages.</h3>
             <ol>
@@ -144,13 +131,10 @@
                 <li>HTML</li>
                 <li>Css</li>
             </ol>
-            
         </section>
-        
     <section >
     <p class="image" >
     <form action =" ">
-        
         <h3 style="color:rgb(199, 29, 29) " class="student">- Student Details -</h3>
         <br>
         <br>
@@ -162,17 +146,13 @@
         <footer>
         </p>
         </section>
-
-
-        
             <section>
             <h4 style="color:rgb(0, 88, 252)">- Contact me -</h4><br>
                   <lable  class ="lable" for = "Name">Name: </lable>
                   <input type = "Text"  class="input" placeholder="enter name "><br>
                  <label class="lable" for="phone" >Phone number</label>
                   <input type="password" class="input" name ="password" ><br>
-                  <label for="password" class="lable" >Date</label>
-                  
+                  <label for="password" class="lable" >Date</label>    
                   <input type="date" class="input" id = "dateofbirth">
                   <br>
                   <b class="lable" >enter ur Gender: </b>
@@ -192,8 +172,7 @@
                 <center>
                     <button type ="submit" style="size: 20px;" class="reddy">Submit</button>
                 </center>
-            </footer>
-            
+            </footer> 
     </section>    
 </body>
 </html>
