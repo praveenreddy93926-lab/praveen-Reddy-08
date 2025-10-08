@@ -114,10 +114,9 @@
         
         <center>
             
-                <button onclick="window.section.href='New folder/SubfileOFHTML.html/Sub.html/subb.html'" style="color:rgb(24, 3, 255)"> languages known</button>
+                <button > languages known</button>
             <a href="http://127.0.0.1:5500/New%20folder/SubfileOFHTML.html/Sub.html/subb.html/sub.html">
-
-                <button style="color: red;"> Educational course</button>
+                <button"> Educational course</button>
             </a>
             <a href="http://127.0.0.1:5500/New%20folder/SubfileOFHTML.html/Sub.html/subb.html/details.html">
             <button > Student Details </button>
