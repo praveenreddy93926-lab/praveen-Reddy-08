@@ -76,7 +76,7 @@
             background-color:rgb(0, 0, 0);
            }
            .image{
-            background-image: url("praveen reddy.in/praveen reddy....jpg");
+            background-image: url("praveen reddy....jpg");
             background-size: cover;
             height: 1000px;
             border-radius: 30px;
