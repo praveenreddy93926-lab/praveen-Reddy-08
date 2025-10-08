@@ -57,7 +57,7 @@
                 color:rgb(255, 3, 3);
             }
             body{
-                background-image: url('background-image/Screenshot 2025-10-01 195640.png');
+                background-image: url('Screenshot 2025-10-01 195640.png');
                 background-size:cover;
                 background-repeat: no-repeat;
                 background-attachment: fixed;
