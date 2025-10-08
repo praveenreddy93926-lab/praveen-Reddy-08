@@ -145,18 +145,19 @@
             <section>
             <h4 style="color:rgb(0, 88, 252)">- Contact me -</h4><br>
                   <lable  class ="lable" for = "Name">Name: </lable>
-                  <input type = "Text"  class="input" placeholder="enter name "><br>
+                  <input type = "Text"  class="input" placeholder="enter name "><br><br>
                  <label class="lable" for="phone" >Phone number</label>
-                  <input type="password" class="input" name ="password" ><br>
+                  <input type="password" class="input" name ="password" ><br><br>
                   <label for="password" class="lable" >Date</label>    
                   <input type="date" class="input" id = "dateofbirth">
-                  <br>
+                  <br>,br>
                   <b class="lable" >enter ur Gender: </b>
                   <input type="radio" class="input" id = "male" name="k" value = "male" >
                   <lable for = "k"  class="lable" >Male</lable>
+        <br><br>
                   <input type="radio"  id ="ma" class ="input" name = "k" value = "female"> 
                   <lable for="k" class="lable" >Female</lable>
-                  <br>
+                  <br><br>
                   <b class="lable"> checkbox</b>
                   <input type = "checkbox" class ="input" id = "box" value = "value">
                   <b class="lable">box1</b>
