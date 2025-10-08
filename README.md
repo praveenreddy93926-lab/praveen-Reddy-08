@@ -1,5 +1,4 @@
-# praveen-Reddy-08
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -143,7 +142,6 @@
         <h5>ROLL: 248R1A6664. </h5>
         <h5>Class: CSE(AIML). </h5>
     </form>
-        <footer>
         </p>
         </section>
             <section>
@@ -172,7 +170,6 @@
                 <center>
                     <button type ="submit" style="size: 20px;" class="reddy">Submit</button>
                 </center>
-            </footer> 
     </section>    
 </body>
 </html>
