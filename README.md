@@ -7,6 +7,8 @@
     <Style>
         body{
             font-size: 50px;
+              width: 95%;
+    height: auto;
         }
         section{
             height: 100vh;
@@ -26,7 +28,9 @@
     height: auto;
         }
         h1{
-            font-size: 100px;
+            font-size: 2em;
+              width: 95%;
+    height: auto;
         }
         ol{
            color :white;
