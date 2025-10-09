@@ -109,7 +109,7 @@
             <a href="sub.html">
                 <button>Course</button>
             </a>
-            <a href="http://127.0.0.1:5500/New%20folder/SubfileOFHTML.html/Sub.html/subb.html/details.html">
+            <a href="details.html">
             <button > Student Details </button>
             </a>
             <br>
