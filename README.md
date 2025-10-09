@@ -22,6 +22,8 @@
         body{
             text-align: center;
             margin: 100px;
+    width: 95%;
+    height: auto;
         }
         h1{
             font-size: 100px;
