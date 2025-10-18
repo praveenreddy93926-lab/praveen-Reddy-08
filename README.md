@@ -109,8 +109,6 @@
     <section>
       <center>
           <h1 style="color:greenyellow" class = "pr">- I am Praveen Reddy -</h1>
-        </center>
-        <center>
         <a href = "sub.html" >
                 <button>Course</button>
             <a href="details.html">
