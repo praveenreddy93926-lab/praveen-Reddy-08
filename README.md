@@ -114,6 +114,7 @@
     </header>
     <main>
         <center>
+        <a href = "sub.html" >
                 <button>Course</button>
             <a href="details.html">
             <button > Student Details </button>
