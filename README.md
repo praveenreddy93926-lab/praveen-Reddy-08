@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Praveen Reddy</title>
+    <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <Style>
         body{
@@ -111,8 +111,6 @@
     </header>
     <main>
         <center>
-                <button > languages known</button>
-            <a href="sub.html">
                 <button>Course</button>
             </a>
             <a href="details.html">
@@ -156,11 +154,10 @@
                   <input type="password" class="input" name ="password" ><br><br>
                   <label for="password" class="lable" >Date</label>    
                   <input type="date" class="input" id = "dateofbirth">
-                  <br>,br>
+                  <br><br>
                   <b class="lable" >enter ur Gender: </b>
                   <input type="radio" class="input" id = "male" name="k" value = "male" >
                   <lable for = "k"  class="lable" >Male</lable>
-        <br><br>
                   <input type="radio"  id ="ma" class ="input" name = "k" value = "female"> 
                   <lable for="k" class="lable" >Female</lable>
                   <br><br>
