@@ -112,6 +112,8 @@
           <h1 style="color:greenyellow" class = "pr">- I am Praveen Reddy -</h1>
         </center>
     </header>
+    </section>
+    <section>
     <main>
         <center>
         <a href = "sub.html" >
