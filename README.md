@@ -106,13 +106,10 @@
     </Style>
 </head>
 <body>
-    <main>
     <section>
-    <header>
       <center>
           <h1 style="color:greenyellow" class = "pr">- I am Praveen Reddy -</h1>
         </center>
-    </header>
         <center>
         <a href = "sub.html" >
                 <button>Course</button>
@@ -125,7 +122,6 @@
             <h3 style="color :darkturquoise">........ </h3>
         </center>
     </section>
-    </main>
             <section>
             <h3 style="color: chartreuse;">languages.</h3>
             <ol>
