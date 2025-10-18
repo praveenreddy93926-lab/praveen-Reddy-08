@@ -95,6 +95,9 @@
         .student{
             text-align: top;
         }
+        *{
+                 fontsize:80px
+            }
         .input{
             border: 4px;
             padding: 8px;
@@ -112,7 +115,6 @@
     <main>
         <center>
                 <button>Course</button>
-            </a>
             <a href="details.html">
             <button > Student Details </button>
             </a>
