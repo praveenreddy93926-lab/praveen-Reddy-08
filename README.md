@@ -108,19 +108,19 @@
 <body>
     <section>
       <center>
-          <h1 style="color:greenyellow" class = "pr">- I am Praveen Reddy -</h1>
-        <a href = "sub.html" >
+     <h1 style="color:greenyellow" class = "pr">- I am Praveen Reddy -</h1>
+                <a href = "sub.html" >
                 <button>Course</button>
-            <a href="details.html">
-            <button > Student Details </button>
+                <a href="details.html">
+                <button> Student Details </button>
             </a>
             <br>
             <br>
-            <a href = "https://chatgpt.com/c/68dbd180-f660-8323-970d-6113fbe1d239">go to chatgpt </a>
+            <a href = "https://chatgpt.com/c/68dbd180-f660-8323-970d-6113fbe1d239"> go to chatgpt </a>
             <h3 style="color :darkturquoise">........ </h3>
+        <br>
         </center>
-    </section>
-            <section>
+        </section>
             <h3 style="color: chartreuse;">languages.</h3>
             <ol>
                 <li>
@@ -132,15 +132,15 @@
                 <li>Css</li>
             </ol>
         </section>
-    <section  class="image" >
+    <section   class="image" >
     <form action =" ">
         <h3 style="color:rgb(199, 29, 29) " class="student">- Student Details -</h3>
         <br>
         <br>
         <br><br><br>
-        <h5>NAME: Praveen Reddy.</h5>
+        <h5>NAME: Praveen Reddy. </h5>
         <h5>ROLL: 248R1A6664. </h5>
-        <h5>Class: CSE(AIML). </h5>
+     <h5>Class: CSE(AIML). </h5>
     </form>
         </section>
             <section>
