@@ -117,7 +117,6 @@
             <br>
             <a href = "https://chatgpt.com/c/68dbd180-f660-8323-970d-6113fbe1d239"> go to chatgpt </a>
             <h3 style="color :darkturquoise">........ </h3>
-               <section>
             <h3 style="color: chartreuse;">languages.</h3>
             <ol>
                 <li>
@@ -128,7 +127,6 @@
                 <li>HTML</li>
                 <li>Css</li>
             </ol>
-        </section>
     <section   class="image" >
     <form action =" ">
         <h3 style="color:rgb(199, 29, 29) " class="student">- Student Details -</h3>
