@@ -107,7 +107,6 @@
 </head>
 <body>
     <section>
-      <center>
      <h1 style="color:greenyellow" class = "pr">- I am Praveen Reddy -</h1>
                 <a href = "sub.html" >
                 <button>Course</button>
@@ -118,9 +117,8 @@
             <br>
             <a href = "https://chatgpt.com/c/68dbd180-f660-8323-970d-6113fbe1d239"> go to chatgpt </a>
             <h3 style="color :darkturquoise">........ </h3>
-        <br>
-        </center>
-        </section>
+            </section>
+               <section>
             <h3 style="color: chartreuse;">languages.</h3>
             <ol>
                 <li>
